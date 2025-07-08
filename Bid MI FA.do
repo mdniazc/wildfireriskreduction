@@ -1,22 +1,4 @@
 
-*Latest*
-
-use "C:\Users\16056\OneDrive\Desktop\STATA DATA ANALYSIS\17-MergeFinal.dta" 
-
-
-
-use "C:\Users\16056\OneDrive\Desktop\STATA DATA ANALYSIS\16-FinalMergePresentation.dta" 
-use "C:\Users\16056\OneDrive\Desktop\STATA DATA ANALYSIS\15-MergeDATASET-NEW.dta" 
-
-/*mergedata Set */
-use "C:\Users\16056\OneDrive\Desktop\STATA DATA ANALYSIS\WTPModelingMerge.dta" 
-use "C:\Users\16056\OneDrive\Desktop\STATA DATA ANALYSIS\11-DeletedMissingValues-471-2.dta" 
-use "C:\Users\16056\OneDrive\Desktop\STATA DATA ANALYSIS\2-IMDS-2.dta" 
- 
- 
-/* dataset with 737 variables */
-use "C:\Users\16056\OneDrive\Desktop\STATA DATA ANALYSIS\2-IMDS-2.dta" 
-
 
 
 /* Delete missing observations and same observations for the both  data set */
